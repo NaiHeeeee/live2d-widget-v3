@@ -10,7 +10,7 @@
 ![](md/png/sample.png)
 
 > [!NOTE]
-> + （1）此项目是基于【[stevenjoezhang/live2d-widget](https://github.com/stevenjoezhang/live2d-widget)】项目的二次开发
+> + （1）此项目是修改自【[letere-gzj/live2d-widget-v3](https://github.com/letere-gzj/live2d-widget-v3)】
 > + （2）原本live2d-widget只能渲染moc模型，无法渲染moc3模型，于是此项目在原版的架构上，对接了新版的Cubism SDK for Web(sdk当前版本v5)，来渲染moc3模型
 > + （3）因为是基于live2d-widget项目的二次开发，使用体验上与原版的live2d-widget相差不大，基本的功能都有所保留
 
