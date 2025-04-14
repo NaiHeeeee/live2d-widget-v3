@@ -351,28 +351,23 @@
   "HitAreas": [
     {
       "Name": "face",
-      "Id": "HitArea",
-      "Motion": "Tapface"
+      "Id": "HitArea"
     },
     {
       "Name": "hair",
-      "Id": "HitArea2",
-      "Motion": "Taphair"
+      "Id": "HitArea2"
     },
     {
       "Name": "xiongbu",
-      "Id": "HitArea3",
-      "Motion": "Tapxiongbu"
+      "Id": "HitArea3"
     },
     {
       "Name": "qunzi",
-      "Id": "HitArea4",
-      "Motion": "Tapqunzi"
+      "Id": "HitArea4"
     },
     {
       "Name": "leg",
-      "Id": "HitArea5",
-      "Motion": "Tapleg"
+      "Id": "HitArea5"
     }
   ],
   "Options": {
