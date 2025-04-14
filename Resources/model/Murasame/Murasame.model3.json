@@ -16,7 +16,7 @@
           "Interruptable": true
         }
       ],
-      "Tapbody": [
+      "TapBody": [
         {
           "File": "motion/motion02.motion3.json",
           "Sound": "sounds/bandicam 2021-11-23 02-18-04-516.mp4.wav",
@@ -349,27 +349,15 @@
     "IntimacySystem": {}
   },
   "HitAreas": [
-    {
-      "Name": "face",
-      "Id": "HitArea"
-    },
-    {
-      "Name": "hair",
-      "Id": "HitArea2"
-    },
-    {
-      "Name": "xiongbu",
-      "Id": "HitArea3"
-    },
-    {
-      "Name": "qunzi",
-      "Id": "HitArea4"
-    },
-    {
-      "Name": "leg",
-      "Id": "HitArea5"
-    }
-  ],
+		{
+			"Id": "HitAreaHead",
+			"Name": "Head"
+		},
+		{
+			"Id": "HitAreaBody",
+			"Name": "Body"
+		}
+	],
   "Options": {
     "ScaleFactor": 0.7
   }
