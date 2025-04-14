@@ -16,7 +16,7 @@
           "Interruptable": true
         }
       ],
-      "Tapface": [
+      "Tapbody": [
         {
           "File": "motion/motion02.motion3.json",
           "Sound": "sounds/bandicam 2021-11-23 02-18-04-516.mp4.wav",
@@ -28,9 +28,7 @@
           "Sound": "sounds/bandicam 2021-11-23 02-19-03-123.mp4.wav",
           "Text": "你，就是本座的主人？",
           "Interruptable": true
-        }
-      ],
-      "Taphair": [
+        },
         {
           "File": "motion/motion04.motion3.json",
           "Sound": "sounds/bandicam 2021-11-23 02-19-13-234.mp4.wav",
@@ -42,9 +40,7 @@
           "Sound": "sounds/bandicam 2021-11-23 02-19-22-154.mp4.wav",
           "Text": "你看，复原了",
           "Interruptable": true
-        }
-      ],
-      "Tapxiongbu": [
+        },
         {
           "File": "motion/motion07.motion3.json",
           "Sound": "sounds/bandicam 2021-11-23 02-19-37-560.mp4.wav",
@@ -56,9 +52,7 @@
           "Sound": "sounds/bandicam 2021-11-23 02-20-13-844.mp4.wav",
           "Text": "你这————！！",
           "Interruptable": true
-        }
-      ],
-      "Tapqunzi": [
+        },
         {
           "File": "motion/motion06.motion3.json",
           "Sound": "sounds/bandicam 2021-11-23 02-19-30-578.mp4.wav",
@@ -70,9 +64,7 @@
           "Sound": "sounds/bandicam 2021-11-23 02-19-47-794.mp4.wav",
           "Text": "本座才不是幽灵！完全不是！不要把幽灵和本座相提并论！",
           "Interruptable": true
-        }
-      ],
-      "Tapleg": [
+        },
         {
           "File": "motion/motion09.motion3.json",
           "Sound": "sounds/bandicam 2021-11-23 02-19-58-125.mp4.wav",
