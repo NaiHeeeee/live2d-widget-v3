@@ -1,0 +1,23 @@
+{
+  "name": "naihe-live2d-widget-v3",
+  "version": "1.1.1",
+  "description": "---",
+  "main": "live2d-sdk.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NaiHeeeee/live2d-widget-v3.git"
+  },
+  "keywords": [
+    "naihe",
+    "live2d"
+  ],
+  "author": "NaiHe",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NaiHeeeee/live2d-widget-v3/issues"
+  },
+  "homepage": "https://github.com/NaiHeeeee/live2d-widget-v3#readme"
+}
